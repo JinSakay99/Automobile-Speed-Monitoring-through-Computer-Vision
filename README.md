@@ -25,3 +25,5 @@ An end-to-end computer vision and computational mechanics pipeline designed to e
 
 * 💻 **Source Code:** Open the uploaded `.ipynb` file in this repository to view the full execution pipeline.
 * 🎥 **Live Action Demo Video:** Play the `Automobile speed  annotated-comp.mp4` file to view the bounding boxes, unique vehicle trace lines, and active speed logs in action.
+
+* 🌐 **Data Attribution / Video Source:** The raw traffic footage analyzed in this pipeline was sourced from an open-access transportation data stream on YouTube, used purely for academic research and computer vision evaluation purposes.
